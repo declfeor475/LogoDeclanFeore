@@ -48,6 +48,7 @@ namespace LogoDeclanFeore
             g.DrawString("W", drawFont, drawBrush2, new Rectangle());
             g.ResetTransform();
             g.DrawString("M", drawFont, drawBrush2, 170, 40);
+            //
         }
     }
 }
